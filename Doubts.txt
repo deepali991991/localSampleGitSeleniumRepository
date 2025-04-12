@@ -1,0 +1,25 @@
+Hi, I am deepali frpm Pune. I am having 7+years of experience in Manual testing. In my last project I got
+chance to work on API automation 
+
+C:\Users\Com\eclipse-workspace_Jan 2025
+
+Doubts:
+Upcasting, downcasting, nested if if elseif, debugging
+
+16-2=14
+
+public class AssignmentEvenNumber {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		for(int i=1;i<=100;i++)
+		{
+			if(i%2==0)
+			{
+				System.out.println(i);
+			}
+		}
+	}
+
+}
